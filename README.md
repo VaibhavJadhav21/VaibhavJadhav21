@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VaibhavJadhav21
+- 👋 Hi, I’m Vaibhav Jadhav
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning MSC.IT
 - 💞️ I’m looking For a position of full stack Web Developer
