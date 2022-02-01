@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vaibhav Jadhav
 - 👀 I’m interested in Web development
-- 🌱 I’m currently studying MSC.IT
+- 🌱 I have done MSC.IT
 - 💞️ I’m looking For a position of full stack Web Developer
 - 📫 My Instagram- ig_vaibhavJadhav 
 - 📫 My Email: vabsjadhav4721@gmail.com
